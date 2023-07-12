@@ -14,8 +14,14 @@ The microservice is exposed via a REST Api. For more info check-out the exposed 
 ## Step by step
 
 The code you are receiving may contain flaws such as: code smells, bad practices, bad/wrong/missing tests, bad/missing validations, and so on.
-One of the tasks is to find the problems in the code. Fix them as soon as you find them, and describe the error with the correction in the PR description. For issues you don't have time to fix, mention them in the PR description with the fix you would like to have implemented.
-The other task is to implement a new API endpoint where the user can get a Role using userId and teamId as filters. **Remember to add Unit Tests and API Tests for it. Add a comment in your PR explaining what was your approach for the new API endpoint.**
+One of the tasks is to find the problems in the code.
+
+Fix them as soon as you find them, and describe the error with the correction in the PR description.
+For issues you don't have time to fix, mention them in the PR description with the fix you would like to have implemented.
+
+The other task is to implement a new API endpoint where the user can get a Role using userId and teamId as filters.
+
+**Remember to add Unit Tests and API Tests for it. Add a comment in your PR explaining what was your approach for the new API endpoint.**
 
 ###  Must have
 
@@ -25,7 +31,7 @@ The other task is to implement a new API endpoint where the user can get a Role 
   - You should describe your approach to implement the new endpoint;
 - You should implement tests for the new endpoint;
 - The entire code, README, and any supporting documentation should be
-written in English.
+  written in English.
 
 ### We will look for experience and good practices with:
 - Tests!
