@@ -1,14 +1,10 @@
 {
-  instructions: [
-    {
-      prompt: 'Bad casing: Class "RoleService". Lines 10, 12, 14',
-      required: true,
-      file: 'RoleService.java',
-    },
-    {
-      prompt: 'Business validation on the creation of Memberships. Class "MembershipsServiceImpl" and "MemberShipService"',
-      required: true,
-      file: 'MembershipsServiceImpl.java',
-    }
-  ]
+  prompt: 'Bad casing: Class "RoleService". Lines 10, 12, 14',
+  required: true,
+  file: 'RoleService.java',
+}
+{
+  prompt: 'Business validation on the creation of Memberships. Class "MembershipsServiceImpl" and "MemberShipService"',
+  required: true,
+  file: 'MembershipsServiceImpl.java',
 }
