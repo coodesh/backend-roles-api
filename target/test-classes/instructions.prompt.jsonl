@@ -1,0 +1,49 @@
+{
+  instructions: [
+    {
+      prompt: "Covered positive scenarios",
+      required: true,
+      file: '/**'
+    },
+    {
+      prompt: "Covered negative scenarios",
+      required: true,
+      file: '/**'
+    },
+    {
+      prompt: "Coverage increase",
+      required: true,
+      file: '/**'
+    },
+    {
+      prompt: "Broken tests because of bad HTTP verbs.",
+      required: true,
+      file: '/**'
+    },
+    {
+      prompt: "Test for Membership validation",
+      required: true,
+      file: '/**'
+    },
+    {
+      prompt: "Assert on error messages",
+      required: true,
+      file: '/**'
+    },
+    {
+      prompt: "Assert on void returning methods",
+      required: true,
+      file: '/**'
+    },
+    {
+      prompt: "Covered borderline scenarios",
+      required: false,
+      file: '/**'
+    },
+    {
+      prompt: "Integration/E2E tests",
+      required: false,
+      file: '/**'
+    },
+  ]
+}
