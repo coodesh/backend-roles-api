@@ -9,6 +9,11 @@
   file: 'MembershipsServiceImpl.java',
 }
 {
+  prompt: 'Business validation on the creation of Memberships. Class "MembershipsServiceImpl" and "MemberShipService"',
+  required: true,
+  file: 'MembershipsServiceImpl.java',
+}
+{
   prompt: 'Bad casing: Class "RoleServiceImpl". Lines 39, 47, 53',
   required: true,
   file: 'RoleServiceImpl.java',
