@@ -33,7 +33,7 @@
     "prompt": "Readable and clear README",
     "required": false,
     "file": "README.md",
-    "extra": true,
+    "extra": true
   },
   {
     "prompt": "Detailed README",
