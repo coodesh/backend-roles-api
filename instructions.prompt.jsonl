@@ -1,66 +1,68 @@
-{
-  prompt: "Code, README and any supporting documentation must be written in English",
-  required: true,
-  file: '/**'
-}
-{
-  prompt: "Described approach of the new feature",
-  required: true,
-  file: null
-}
-{
-  prompt: "New API implementation",
-  required: true,
-  file: '/**'
-}
-{
-  prompt: "Comment on the PR the reason of the changes",
-  required: true,
-  file: null
-}
-{
-  prompt: "Use of RESTful best practices",
-  required: true,
-  file: '/**'
-}
-{
-  prompt: "No business logic inside the Controller layer",
-  required: true,
-  file: '/**'
-}
-{
-  prompt: "Readable and clear README",
-  required: false,
-  extra: true,
-  file: 'README.md'
-}
-{
-  prompt: "Detailed README",
-  required: false,
-  file: 'README.md',
-  extra: true
-}
-{
-  prompt: "Use of configuration externalization",
-  required: false,
-  file: '/**',
-  extra: true
-}
-{
-  prompt: "Swagger",
-  required: false,
-  file: '/**',
-  extra: true
-}
-{
-  prompt: "Postman collection",
-  required: false,
-  file: '*.postman_collection',
-  extra: true
-}
-{
-  prompt: "Javadocs implementation",
-  required: false,
-  file: '/**',
-  extra: true
-}
+[
+  {
+    prompt: "Code, README and any supporting documentation must be written in English",
+    required: true,
+    file: '/**'
+  },
+  {
+    prompt: "Described approach of the new feature",
+    required: true,
+    file: null
+  },
+  {
+    prompt: "New API implementation",
+    required: true,
+    file: '/**'
+  },
+  {
+    prompt: "Comment on the PR the reason of the changes",
+    required: true,
+    file: null
+  },
+  {
+    prompt: "Use of RESTful best practices",
+    required: true,
+    file: '/**'
+  },
+  {
+    prompt: "No business logic inside the Controller layer",
+    required: true,
+    file: '/**'
+  },
+  {
+    prompt: "Readable and clear README",
+    required: false,
+    extra: true,
+    file: 'README.md'
+  },
+  {
+    prompt: "Detailed README",
+    required: false,
+    file: 'README.md',
+    extra: true
+  },
+  {
+    prompt: "Use of configuration externalization",
+    required: false,
+    file: '/**',
+    extra: true
+  },
+  {
+    prompt: "Swagger",
+    required: false,
+    file: '/**',
+    extra: true
+  },
+  {
+    prompt: "Postman collection",
+    required: false,
+    file: '*.postman_collection',
+    extra: true
+  },
+  {
+    prompt: "Javadocs implementation",
+    required: false,
+    file: '/**',
+    extra: true
+  }
+]
