@@ -1,7 +1,7 @@
 [
   {
-    "prompt": "Bad casing: Class \"RoleService\". Lines 10, 12, 14",
+    "prompt": "Bad casing: Class 'RoleService'. Lines 10, 12, 14",
     "required": true,
-    "file": "RoleService.java",
+    "file": "RoleService.java"
   }
 ]

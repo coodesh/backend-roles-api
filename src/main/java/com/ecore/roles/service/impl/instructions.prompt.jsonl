@@ -1,31 +1,31 @@
 [
   {
-    "prompt": "Bad variable: Class \"RolesServiceImpl\". Line 39 and 47",
+    "prompt": "Bad variable: Class 'RolesServiceImpl'. Line 39 and 47",
     "required": true,
-    "file": "RolesServiceImpl.java",
+    "file": "RolesServiceImpl.java"
   },
   {
-    "prompt": "Bad variable: Class \"MembershipsServiceImpl\". Line 39, 39, 52, 53",
+    "prompt": "Bad variable: Class 'MembershipsServiceImpl'. Line 39, 39, 52, 53",
     "required": true,
-    "file": "MembershipsServiceImpl.java",
+    "file": "MembershipsServiceImpl.java"
   },
   {
-    "prompt": "Business validation on the creation of Memberships. Class \"MembershipsServiceImpl\" and \"MemberShipService\"",
+    "prompt": "Business validation on the creation of Memberships. Class 'MembershipsServiceImpl' and 'MemberShipService'",
     "required": true,
-    "file": "MembershipsServiceImpl.java",
+    "file": "MembershipsServiceImpl.java"
   },
   {
-    "prompt": "Bad casing: Class \"RoleServiceImpl\". Lines 39, 47, 53",
+    "prompt": "Bad casing: Class 'RoleServiceImpl'. Lines 39, 47, 53",
     "required": true,
-    "file": "RoleServiceImpl.java",
+    "file": "RoleServiceImpl.java"
   },
   {
-    "prompt": "Exceptions on Class \"UsersServiceImpl\". Line 24 and 29",
+    "prompt": "Exceptions on Class 'UsersServiceImpl'. Line 24 and 29",
     "required": true,
-    "file": "UsersServiceImpl.java",
+    "file": "UsersServiceImpl.java"
   },
   {
-    "prompt": "Exceptions on Class \"TeamsServiceImpl\". Line 24 and 29",
+    "prompt": "Exceptions on Class 'TeamsServiceImpl'. Line 24 and 29",
     "required": true,
     "file": "TeamsServiceImpl.java"
   }

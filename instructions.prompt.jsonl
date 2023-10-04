@@ -7,7 +7,7 @@
   {
     "prompt": "Described approach of the new feature",
     "required": true,
-    "file": null
+    "file": ""
   },
   {
     "prompt": "New API implementation",
@@ -17,7 +17,7 @@
   {
     "prompt": "Comment on the PR the reason of the changes",
     "required": true,
-    "file": null
+    "file": ""
   },
   {
     "prompt": "Use of RESTful best practices",
