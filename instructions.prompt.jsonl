@@ -32,13 +32,13 @@
   {
     "prompt": "Readable and clear README",
     "required": false,
+    "file": "README.md",
     "extra": true,
-    "file": 'README.md'
   },
   {
     "prompt": "Detailed README",
     "required": false,
-    "file": 'README.md',
+    "file": "README.md",
     "extra": true
   },
   {
@@ -56,7 +56,7 @@
   {
     "prompt": "Postman collection",
     "required": false,
-    "file": '*.postman_collection',
+    "file": "*.postman_collection",
     "extra": true
   },
   {
