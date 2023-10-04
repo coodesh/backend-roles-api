@@ -1,22 +1,22 @@
 [
   {
-    "prompt": 'Wrong HTTP methods: Class "RolesRestController". Lines 29, 37,41,48,54',
+    "prompt": "Wrong HTTP methods: Class \"RolesRestController\". Lines 29, 37,41,48,54",
     "required": true,
-    "file": 'RolesRestController.java',
+    "file": "RolesRestController.java",
   },
   {
-    "prompt": 'Wrong HTTP methods: Class "MemberShipsRestController". Lines32, 39,44,51',
+    "prompt": "Wrong HTTP methods: Class \"MemberShipsRestController\". Lines32, 39,44,51",
     "required": true,
-    "file": 'MemberShipsRestController.java',
+    "file": "MemberShipsRestController.java",
   },
   {
-    "prompt": 'Method of InvalidArgumentException on Class "DefaultExceptionHandler"',
+    "prompt": "Method of InvalidArgumentException on Class \"DefaultExceptionHandler\"",
     "required": true,
-    "file": 'DefaultExceptionHandler.java',
+    "file": "DefaultExceptionHandler.java",
   },
   {
-    "prompt": 'Bad import. Class "MembershipsRestController" on line 9',
+    "prompt": "Bad import. Class \"MembershipsRestController\" on line 9",
     "required": true,
-    "file": 'MembershipsRestController.java'
+    "file": "MembershipsRestController.java"
   }
 ]
