@@ -1,6 +1,6 @@
 [
   {
-    "prompt": "Code, README and any supporting documentation must be written in English",
+    "prompt": "Must be written only in English",
     "required": true,
     "file": "*"
   },
